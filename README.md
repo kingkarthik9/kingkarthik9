@@ -34,7 +34,6 @@ Gmail : karthikkavali540@gmail.com
 
 ---
 
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
