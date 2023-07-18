@@ -51,5 +51,6 @@ Gmail : karthikkavali540@gmail.com
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  - Coming soon in 2024
+  
+        - Coming soon in 2024
 
