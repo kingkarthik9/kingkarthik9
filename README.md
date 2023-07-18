@@ -22,8 +22,8 @@
 ### Connect with me:
 
 
-[![Twitter](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)
-[![Twitter](./img/instagram-light.svg)](https://www.linkedin.com/in/karthik-kavali/)
+[![Twitter](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)<br>
+[![LinkedIn](./img/instagram-light.svg)](https://www.linkedin.com/in/karthik-kavali/)
 
 
 Gmail : karthikkavali540@gmail.com
