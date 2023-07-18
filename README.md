@@ -19,9 +19,8 @@
 - 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play drums
 
-### Connect with me:
+## Connect with me:
 
---
 [![Twitter](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)<br>
 [![LinkedIn](./img/instagram-light.svg)](https://www.linkedin.com/in/karthik-kavali/)
 
