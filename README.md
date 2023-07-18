@@ -26,20 +26,20 @@
 
 Gmail : karthikkavali540@gmail.com
 
+---
+
 ### Languages and Tools:
 
-HTML
-CSS
-JAVASCRIPT
-GIT AND GITHUB
-JAVA
-MYSQL
-VSCODE
+    HTML
+    CSS
+    JAVASCRIPT
+    GIT AND GITHUB
+    JAVA
+    MYSQL
+    VSCODE
 
 <br />
 <br />
-
----
 
 
 ---
