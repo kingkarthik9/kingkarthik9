@@ -22,7 +22,7 @@
 ### Connect with me:
 
 
-    [![LinkedIn](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)
+[![LinkedIn](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)
 
 Gmail : karthikkavali540@gmail.com
 
