@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-
+---
 [![Twitter](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)<br>
 [![LinkedIn](./img/instagram-light.svg)](https://www.linkedin.com/in/karthik-kavali/)
 
