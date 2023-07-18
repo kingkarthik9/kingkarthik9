@@ -20,9 +20,9 @@
 - ⚡ Fun fact: I love to draw and play drums
 
 ### Connect with me:
-<br>
 
-[![LinkedIn](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)
+
+    [![LinkedIn](./img/instagram-light.svg)](https://twitter.com/Karthikkavali54)
 
 Gmail : karthikkavali540@gmail.com
 
@@ -42,7 +42,6 @@ Gmail : karthikkavali540@gmail.com
 <br />
 
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
