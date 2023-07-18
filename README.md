@@ -30,9 +30,7 @@ Gmail : karthikkavali540@gmail.com
     VSCODE
 <br />
 <br />
-
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
