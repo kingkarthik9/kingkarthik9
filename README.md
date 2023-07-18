@@ -28,7 +28,6 @@ Gmail : karthikkavali540@gmail.com
     JAVA
     MYSQL
     VSCODE
-
 <br />
 <br />
 
