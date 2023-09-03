@@ -5,19 +5,10 @@
 
 
 
-## I'm a Software Engineer,!!
-
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play drums
 
-## I'm a Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play drums
 
 ## Connect with me:
 
